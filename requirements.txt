@@ -1,1 +1,1 @@
-npm run build
+git+https://github.com/DenizDogan92/Streamlit-Image-Carousel.git@github.com:DenizDogan92/Streamlit-Image-Carousel.git
